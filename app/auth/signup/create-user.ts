@@ -1,6 +1,6 @@
 "use server";
 
-import { FormError } from "@/app/common/form-error.interface";
+import { FormError } from "@/app/common/interfaces/form-error.interface";
 import { post } from "@/app/util/fetch";
 import { redirect } from "next/navigation";
 
