@@ -8,3 +8,10 @@ export const unauthenticatedRoutes = [
     path: "/auth/signup",
   },
 ];
+
+export const routes = [
+  {
+    title: "Home",
+    path: "/",
+  },
+];
